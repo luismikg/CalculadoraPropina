@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplicación de Propinas</string>
+    <string name="enter_amount">Ingrese Monto</string>
+    <string name="tip_percent">15%</string>
+    <string name="tip">Propina</string>
+    <string name="total">Total</string>
+</resources>
